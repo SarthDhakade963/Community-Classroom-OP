@@ -6,3 +6,4 @@
 - Deva says this course is Outstanding
 - Kartik says this course is Amazing.
 - Farhan says this course is Fantastic.
+- Vedant says this course is Good.
