@@ -4,3 +4,4 @@
 - Reema says this course is Marvellous.
 - Rana says this course is Excellent.
 - Deva says this course is Outstanding
+- Kartik says this course is Amazing.
