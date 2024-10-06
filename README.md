@@ -5,3 +5,4 @@
 - Rana says this course is Excellent.
 - Deva says this course is Outstanding
 - Kartik says this course is Amazing.
+- Farhan says this course is Fantastic.
